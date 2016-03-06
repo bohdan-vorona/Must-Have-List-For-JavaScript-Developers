@@ -10,102 +10,107 @@ There should be the entry… However, from words to action. Go. Below is a list 
 
 _ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard. ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009._
 
-1. [Overview of ECMAScript 6 features][2] (GitHub)
+1\. [Overview of ECMAScript 6 features][2] (GitHub)
 
-2. [Digging Into the Modern JavaScript][3] (dzone.com)
+2\. [Digging Into the Modern JavaScript][3] (dzone.com)
 
 ### Videos
 
 _It is better to see once than hear a hundred times._
 
-1. [JavaScript Video Tutorial][4] (Derek Banas, YouTube)
+1\. [JavaScript Video Tutorial][4] (Derek Banas, YouTube)
 
-2. [JavaScript Fundamentals][5], [JavaScript Tutorial For Beginners][6], [JavaScript is Weird…and AWESOME][7], [Modular Javascript][8] (LearnCode.academy, YouTube)
+2\. [JavaScript Fundamentals][5], [JavaScript Tutorial For Beginners][6], [JavaScript is Weird…and AWESOME][7], [Modular Javascript][8] (LearnCode.academy, YouTube)
 
-3. [JavaScript Fundamentals][5], [JavaScript Tutorial For Beginners][6], [JavaScript is Weird…and AWESOME][7], [Modular Javascript][8] (LearnCode.academy, YouTube)
+3\. [JavaScript Fundamentals][5], [JavaScript Tutorial For Beginners][6], [JavaScript is Weird…and AWESOME][7], [Modular Javascript][8] (LearnCode.academy, YouTube)
 
-4. [Javascript Tutorial For Beginners][9] (ProgrammingKnowledge, YouTube)
+4\. [Javascript Tutorial For Beginners][9] (ProgrammingKnowledge, YouTube)
 
 ### Online Tools
 
 _Useful online tools for JavaScript developers._
 
-1. [Babel -The compiler for writing next generation JavaScript][10] (babeljs.io/repl/)
-2. [JSLint][11] (jslint.com)
-3. [JSCompress][12] (jscompress.com)
-4. [RegExr: Learn, Build, & Test RegEx][13] (regexr.com)
-5. [Javascript Cheat Sheet][14] (overapi.com/javascript)
-6. [JS NICE][15] (jsnice.org)
+1\. [Babel -The compiler for writing next generation JavaScript][10] (babeljs.io/repl/)
+
+2\. [JSLint][11] (jslint.com)
+
+3\. [JSCompress][12] (jscompress.com)
+
+4\. [RegExr: Learn, Build, & Test RegEx][13] (regexr.com)
+
+5\. [Javascript Cheat Sheet][14] (overapi.com/javascript)
+
+6\. [JS NICE][15] (jsnice.org)
 
 ### Posts
 
 _Good posts from good blogs._
 
-1. [Useful JavaScript Tips, Tricks and Best Practices][16] (ModernWeb)
+1\. [Useful JavaScript Tips, Tricks and Best Practices][16] (ModernWeb)
 
-2. [20 Free JavaScript Game Engines for Developers][17] (Code Geekz)
+2\. [20 Free JavaScript Game Engines for Developers][17] (Code Geekz)
 
-3. [Partial Application in JavaScript][18] (Ben Alman)
+3\. [Partial Application in JavaScript][18] (Ben Alman)
 
-4. [Understanding "Prototypes" in JavaScript][19] (Yehuda Katz)
+4\. [Understanding "Prototypes" in JavaScript][19] (Yehuda Katz)
 
-5. [Understanding JavaScript OOP][20] (Quils in Space)
+5\. [Understanding JavaScript OOP][20] (Quils in Space)
 
 ### Blogs
 
 _Good blogs for JavaScript Developers._
 
-1. [David Walsh Blog][21] (davidwalsh.name)
+1\. [David Walsh Blog][21] (davidwalsh.name)
 
-2. [Mozilla Hacks][22] (hacks.mozilla.org)
+2\. [Mozilla Hacks][22] (hacks.mozilla.org)
 
-3. [Echo JS][23] (echojs.com)
+3\. [Echo JS][23] (echojs.com)
 
-4. [JavaScript Weekly][24] (javascriptweekly.com)
+4\. [JavaScript Weekly][24] (javascriptweekly.com)
 
-5. [JavaScript — SitePoint][25] (sitepoint.com/javascript/)
+5\. [JavaScript — SitePoint][25] (sitepoint.com/javascript/)
 
-6. [DailyJS][26] (dailyjs.com)
+6\. [DailyJS][26] (dailyjs.com)
 
-7. [Tutorialzine][27] (tutorialzine.com/?s=javascript)
+7\. [Tutorialzine][27] (tutorialzine.com/?s=javascript)
 
 ### Additional
 
 _Another helpful sources._
 
-1. [Use JSDoc][28] (usejsdoc.org)
+1\. [Use JSDoc][28] (usejsdoc.org)
 
-2. [JS: The Right Way][29] (jstherightway.org)
+2\. [JS: The Right Way][29] (jstherightway.org)
 
-3. [JSbooks — free javascript books][30] (jsbooks.revolunet.com)
+3\. [JSbooks — free javascript books][30] (jsbooks.revolunet.com)
 
-4. [Podcast episodes — Javascript Jabber][31] (Devchat.tv)
+4\. [Podcast episodes — Javascript Jabber][31] (Devchat.tv)
 
-5. [5 Minutes of Javascript][32] (fivejs.codeschool.com)
+5\. [5 Minutes of Javascript][32] (fivejs.codeschool.com)
 
-6. [JavaScript For Cats][33] (jsforcats.com)
+6\. [JavaScript For Cats][33] (jsforcats.com)
 
-7. [Interactive JavaScript tutorial][34] (learn-js.org)
+7\. [Interactive JavaScript tutorial][34] (learn-js.org)
 
 ### Follow these people
 
 _They write about useful things._
 
-1. [Addy Osmani][35] (twitter.com/addyosmani)
+1\. [Addy Osmani][35] (twitter.com/addyosmani)
 
-2. [angus][36] (twitter.com/angustweets)
+2\. [angus][36] (twitter.com/angustweets)
 
-3. [Axel Rauschmayer][37] (twitter.com/rauschma)
+3\. [Axel Rauschmayer][37] (twitter.com/rauschma)
 
-4. [Ben Alman][38] (twitter.com/cowboy)
+4\. [Ben Alman][38] (twitter.com/cowboy)
 
-5. [Cody Lindley][39] (twitter.com/codylindley)
+5\. [Cody Lindley][39] (twitter.com/codylindley)
 
-6. [Elijah Manor][40] (twitter.com/elijahmanor)
+6\. [Elijah Manor][40] (twitter.com/elijahmanor)
 
-7. [Paul Irish][41] (twitter.com/paul_irish)
+7\. [Paul Irish][41] (twitter.com/paul_irish)
 
-8. [Kyle Simpson][42] (twitter.com/getify)
+8\. [Kyle Simpson][42] (twitter.com/getify)
 
 ### Helpful Repositories
 
