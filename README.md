@@ -71,6 +71,8 @@ _Good blogs for JavaScript Developers._
 
 ### Additional
 
+_Another helpful sources._
+
 1. [Use JSDoc][28] (usejsdoc.org)
 
 2. [JS: The Right Way][29] (jstherightway.org)
@@ -86,6 +88,8 @@ _Good blogs for JavaScript Developers._
 7. [Interactive JavaScript tutorial][34] (learn-js.org)
 
 ### Follow these people
+
+_They write about useful things._
 
 1. [Addy Osmani][35] (twitter.com/addyosmani)
 
@@ -105,33 +109,21 @@ _Good blogs for JavaScript Developers._
 
 ### Helpful Repositories
 
-1\. [github.com/javve/list.js][43]
+_It may be useful in developing your applications._
 
-The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+1\. [github.com/javve/list.js][43] - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 
-2\. [github.com/alvarotrigo/fullPage.js][44]
+2\. [github.com/alvarotrigo/fullPage.js][44] - Create full screen pages fast and simple.
 
-Create full screen pages fast and simple.
+3\. [github.com/MrSwitch/hello.js][45] - A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect.
 
-3\. [github.com/MrSwitch/hello.js][45]
+4\. [github.com/moment/moment][46] - Parse, validate, manipulate, and display dates in JavaScript.
 
-A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect.
+5\. [github.com/arasatasaygin/is.js][47] - Micro check library.
 
-4\. [github.com/moment/moment][46]
+6\. [github.com/jaredreich/notie.js][48] - A clean and simple notification plugin (alert/growl style) for JavaScript, with no dependencies.
 
-Parse, validate, manipulate, and display dates in JavaScript.
-
-5\. [github.com/arasatasaygin/is.js][47]
-
-Micro check library.
-
-6\. [github.com/jaredreich/notie.js][48]
-
-A clean and simple notification plugin (alert/growl style) for JavaScript, with no dependencies.
-
-7\. [github.com/getify/You-Dont-Know-JS][49]
-
-A book series on JavaScript.
+7\. [github.com/getify/You-Dont-Know-JS][49] - A book series on JavaScript.
 
 — — — — — — — — — — — — — — — —
 
