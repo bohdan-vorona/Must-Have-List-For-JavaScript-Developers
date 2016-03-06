@@ -2,7 +2,7 @@
 
 # Must-Have List For JavaScript Developers
 
-There should be the entry … However, from words to action. Go. Below is a list of very useful resources for **JavaScript** developers.
+There should be the entry… However, from words to action. Go. Below is a list of very useful resources for **JavaScript** developers.
 
 ![][1]
 
@@ -136,8 +136,6 @@ A book series on JavaScript.
 — — — — — — — — — — — — — — — —
 
 You also can follow me on **Twitter** ([**twitter.com/BohdanVorona**][50]) and on **Medium** ([**Bohdan Vorona**][51]) because very often I write about **JavaScript**.
-
-This list also is available on **GitHub** ([**github.com/bohdan-vorona/Must-Have-List-For-JavaScript-Developers**][52]).
 
 [1]: https://cdn-images-1.medium.com/max/800/1*Jp_HlWfzS_r-jMh8m1D7LQ.png
 [2]: https://github.com/lukehoban/es6features
