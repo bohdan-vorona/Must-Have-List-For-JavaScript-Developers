@@ -12,7 +12,7 @@ _ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAS
 
 1. [Overview of ECMAScript 6 features][2] (GitHub)
 
-2\. [Digging Into the Modern JavaScript][3] (dzone.com)
+2. [Digging Into the Modern JavaScript][3] (dzone.com)
 
 ### Videos
 
@@ -20,11 +20,11 @@ _It is better to see once than hear a hundred times._
 
 1. [JavaScript Video Tutorial][4] (Derek Banas, YouTube)
 
-2\. [JavaScript Fundamentals][5], [JavaScript Tutorial For Beginners][6], [JavaScript is Weird…and AWESOME][7], [Modular Javascript][8] (LearnCode.academy, YouTube)
+2. [JavaScript Fundamentals][5], [JavaScript Tutorial For Beginners][6], [JavaScript is Weird…and AWESOME][7], [Modular Javascript][8] (LearnCode.academy, YouTube)
 
-3\. [JavaScript Fundamentals][5], [JavaScript Tutorial For Beginners][6], [JavaScript is Weird…and AWESOME][7], [Modular Javascript][8] (LearnCode.academy, YouTube)
+3. [JavaScript Fundamentals][5], [JavaScript Tutorial For Beginners][6], [JavaScript is Weird…and AWESOME][7], [Modular Javascript][8] (LearnCode.academy, YouTube)
 
-4\. [Javascript Tutorial For Beginners][9] (ProgrammingKnowledge, YouTube)
+4. [Javascript Tutorial For Beginners][9] (ProgrammingKnowledge, YouTube)
 
 ### Online Tools
 
@@ -43,13 +43,13 @@ _Good posts from good blogs._
 
 1. [Useful JavaScript Tips, Tricks and Best Practices][16] (ModernWeb)
 
-2\. [20 Free JavaScript Game Engines for Developers][17] (Code Geekz)
+2. [20 Free JavaScript Game Engines for Developers][17] (Code Geekz)
 
-3\. [Partial Application in JavaScript][18] (Ben Alman)
+3. [Partial Application in JavaScript][18] (Ben Alman)
 
-4\. [Understanding "Prototypes" in JavaScript][19] (Yehuda Katz)
+4. [Understanding "Prototypes" in JavaScript][19] (Yehuda Katz)
 
-5\. [Understanding JavaScript OOP][20] (Quils in Space)
+5. [Understanding JavaScript OOP][20] (Quils in Space)
 
 ### Blogs
 
@@ -57,79 +57,79 @@ _Good blogs for JavaScript Developers._
 
 1. [David Walsh Blog][21] (davidwalsh.name)
 
-2\. [Mozilla Hacks][22] (hacks.mozilla.org)
+2. [Mozilla Hacks][22] (hacks.mozilla.org)
 
-3\. [Echo JS][23] (echojs.com)
+3. [Echo JS][23] (echojs.com)
 
-4\. [JavaScript Weekly][24] (javascriptweekly.com)
+4. [JavaScript Weekly][24] (javascriptweekly.com)
 
-5\. [JavaScript — SitePoint][25] (sitepoint.com/javascript/)
+5. [JavaScript — SitePoint][25] (sitepoint.com/javascript/)
 
-6\. [DailyJS][26] (dailyjs.com)
+6. [DailyJS][26] (dailyjs.com)
 
-7\. [Tutorialzine][27] (tutorialzine.com/?s=javascript)
+7. [Tutorialzine][27] (tutorialzine.com/?s=javascript)
 
 ### Additional
 
-1\. [Use JSDoc][28] (usejsdoc.org)
+1. [Use JSDoc][28] (usejsdoc.org)
 
-2\. [JS: The Right Way][29] (jstherightway.org)
+2. [JS: The Right Way][29] (jstherightway.org)
 
-3\. [JSbooks — free javascript books][30] (jsbooks.revolunet.com)
+3. [JSbooks — free javascript books][30] (jsbooks.revolunet.com)
 
-4\. [Podcast episodes — Javascript Jabber][31] (Devchat.tv)
+4. [Podcast episodes — Javascript Jabber][31] (Devchat.tv)
 
-5\. [5 Minutes of Javascript][32] (fivejs.codeschool.com)
+5. [5 Minutes of Javascript][32] (fivejs.codeschool.com)
 
-6\. [JavaScript For Cats][33] (jsforcats.com)
+6. [JavaScript For Cats][33] (jsforcats.com)
 
-7\. [Interactive JavaScript tutorial][34] (learn-js.org)
+7. [Interactive JavaScript tutorial][34] (learn-js.org)
 
 ### Follow these people
 
-1\. [Addy Osmani][35] (twitter.com/addyosmani)
+1. [Addy Osmani][35] (twitter.com/addyosmani)
 
-2\. [angus][36] (twitter.com/angustweets)
+2. [angus][36] (twitter.com/angustweets)
 
-3\. [Axel Rauschmayer][37] (twitter.com/rauschma)
+3. [Axel Rauschmayer][37] (twitter.com/rauschma)
 
-4\. [Ben Alman][38] (twitter.com/cowboy)
+4. [Ben Alman][38] (twitter.com/cowboy)
 
-5\. [Cody Lindley][39] (twitter.com/codylindley)
+5. [Cody Lindley][39] (twitter.com/codylindley)
 
-6\. [Elijah Manor][40] (twitter.com/elijahmanor)
+6. [Elijah Manor][40] (twitter.com/elijahmanor)
 
-7\. [Paul Irish][41] (twitter.com/paul_irish)
+7. [Paul Irish][41] (twitter.com/paul_irish)
 
-8\. [Kyle Simpson][42] (twitter.com/getify)
+8. [Kyle Simpson][42] (twitter.com/getify)
 
 ### Helpful Repositories
 
-1\. [github.com/javve/list.js][43]
+1. [github.com/javve/list.js][43]
 
 The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 
-2\. [github.com/alvarotrigo/fullPage.js][44]
+2. [github.com/alvarotrigo/fullPage.js][44]
 
 Create full screen pages fast and simple.
 
-3\. [github.com/MrSwitch/hello.js][45]
+3. [github.com/MrSwitch/hello.js][45]
 
 A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect.
 
-4\. [github.com/moment/moment][46]
+4. [github.com/moment/moment][46]
 
 Parse, validate, manipulate, and display dates in JavaScript.
 
-5\. [github.com/arasatasaygin/is.js][47]
+5. [github.com/arasatasaygin/is.js][47]
 
 Micro check library.
 
-6\. [github.com/jaredreich/notie.js][48]
+6. [github.com/jaredreich/notie.js][48]
 
 A clean and simple notification plugin (alert/growl style) for JavaScript, with no dependencies.
 
-7\. [github.com/getify/You-Dont-Know-JS][49]
+7. [github.com/getify/You-Dont-Know-JS][49]
 
 A book series on JavaScript.
 
