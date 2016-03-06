@@ -1,4 +1,4 @@
-[Source](https://medium.com/@BohdanVorona/must-have-list-for-javascript-developers-6b3d7c54018f "Permalink to Must-Have List For JavaScript Developers — Medium")
+[This list is also available on Medium](https://medium.com/@BohdanVorona/must-have-list-for-javascript-developers-6b3d7c54018f "Permalink to Must-Have List For JavaScript Developers — Medium")
 
 # Must-Have List For JavaScript Developers
 
